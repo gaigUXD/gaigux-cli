@@ -1,0 +1,22 @@
+{
+  "name": "gaigux-cli",
+  "version": "0.7.0",
+  "description": "Command Line Interface for GAIG UX Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "preferGlobal": true,
+  "directories": {
+    "bin": "./bin"
+  },
+  "dependencies": {
+    "optimist": "~0.6.1",
+    "prompt": "~0.2.13",
+    "chalk": "~0.5.1",
+    "string": "~2.0.1",
+    "github-download": "~0.3.0",
+    "simple-spinner": "0.0.2"
+  }
+}

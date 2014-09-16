@@ -1,0 +1,9 @@
+'use strict';
+
+module.exports = angular.module('${moduleName}', [])
+
+  .controller('${controllerName}', require('./controllers/${controllerFile}'))
+
+  .config(function ${moduleName}Config() {
+
+  });

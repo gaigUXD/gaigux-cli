@@ -1,0 +1,14 @@
+'use strict';
+
+function ${controllerName}() {
+  var vm = this;
+
+  (function init() {
+
+    vm.hello = 'Hello from ${moduleTitleCase}';
+
+  })();
+
+}
+
+module.exports = ${controllerName};
