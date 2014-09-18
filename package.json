@@ -1,6 +1,6 @@
 {
   "name": "gaigux-cli",
-  "version": "0.7.0",
+  "version": "0.9.1",
   "description": "Command Line Interface for GAIG UX Development",
   "main": "index.js",
   "scripts": {
